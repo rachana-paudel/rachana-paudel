@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rachana-paudel/" target="_blank">
-        <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+       <img src="https://brand.linkedin.com/assets/images/LinkedIn-Logo.png" alt="LinkedIn" width="30" height="30">
     </a>
    
     <a href="https://www.linkedin.com/in/rachana-paudel/" target="_blank">Rachana Paudel's LinkedIn Profile</a>
