@@ -1,5 +1,9 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E12AQGIcUpV-JrCOA/article-cover_image-shrink_720_1280/0/1700292550046?e=2147483647&v=beta&t=mppsI5cbrYyaV8mW7wfBMubsCXXUd21qYAKLrlzKrAs)
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20Practitioner;SolutionArchitectAssociateLearner&font=Pacifico&center=true&width=700&height=120&color=58a6ff&vCenter=true&size=35%22">
+
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 
 
 <h1 align="center">Hi 👋, I'm Rachana Paudel</h1>
