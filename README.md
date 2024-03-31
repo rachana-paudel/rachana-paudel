@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachana-paudel&label=Profile%20views&color=0e75b6&style=flat" alt="rachana-paudel" /> </p>
 
-- 🌱 I’m currently learning **AWS Associate Solution Architect**
+- 🌱 I’m currently learning **AWS Solution Architect Associate**
 
 - 📫 How to reach me **/in/rachana-paudel/**
 
